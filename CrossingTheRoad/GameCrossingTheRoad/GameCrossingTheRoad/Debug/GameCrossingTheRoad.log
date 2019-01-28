@@ -1,0 +1,2 @@
+﻿  GameCrossingTheRoad.cpp
+d:\oop c++\thuchanh\th_game\crossingtheroad\gamecrossingtheroad\gamecrossingtheroad\gamecrossingtheroad.cpp : fatal error C1041: cannot open program database 'D:\OOP C++\THUCHANH\TH_Game\CrossingTheRoad\GameCrossingTheRoad\GameCrossingTheRoad\Debug\vc141.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
